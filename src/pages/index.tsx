@@ -1,4 +1,4 @@
-import { CaretLeft, CaretLineLeft, CaretLineRight, Terminal } from "@phosphor-icons/react";
+import { CaretLeft, Terminal } from "@phosphor-icons/react";
 import { useEffect, useRef, useState } from "react";
 import SyntaxHighlighter from "react-syntax-highlighter/dist/cjs/prism";
 import { oneDark } from "react-syntax-highlighter/dist/cjs/styles/prism";
